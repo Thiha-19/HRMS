@@ -1,0 +1,21 @@
+fieldset{
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 12px;
+    overflow: hidden;
+    padding: 0 .625em;
+}
+
+
+label{
+    cursor: pointer;
+    display: inline-block;
+    padding: 6px 3px;
+    text-align: right;
+    margin-top: 7px;
+    width: 150px;
+}
+
+input{
+    font-size: inherit;
+}
